@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helventica Neue', Helvetica, Arial;
+  background-color: #f0f0f0;
+  overflow: scroll;
+}
+
+.content {
+  display: flex;
+  display: -webkit-flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: space-around;
+}
